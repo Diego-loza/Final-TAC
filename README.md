@@ -2,7 +2,7 @@
 ## Descripción:
 Proyecto realizado para el curso de Tecnologías Avanzadas de Computación de la PUCP
 
-[alt text](https://github.com/Diego-loza/Final-TAC/blob/main/wdevelopers.png?raw=true)
+[Wdevelopers logo](wdevelopers.png)
 
 ## Integrantes:
 - Diego Lozano
